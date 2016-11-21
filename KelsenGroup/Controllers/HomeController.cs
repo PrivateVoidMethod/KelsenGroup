@@ -11,6 +11,7 @@ namespace KelsenGroup.Controllers
         public ActionResult Index()
         {
             return View();
+            //test
         }
 
         public ActionResult About()
